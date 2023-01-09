@@ -1,0 +1,34 @@
+{
+ "skills":[
+  "TYPESCRIPT",
+"REACT.JS",
+"NODE.JS",
+"DENO",
+"MONGODB",
+"POSTGRESQL",
+"GIT",
+"REACTNATIVE",
+"CHAKRA-UI",
+"CSS",
+"ANTD",
+"TAILWIND",
+"MUI"
+ ],
+ "experience": [
+    {
+      "id": 1,
+      "role": "SDE-3 at Masai School",
+      "year": "October 2021 - Present"
+    },
+    {
+      "id": 2,
+      "role": "Senior Software Engineer at Swiggy",
+      "year": "October 2021 - Present"
+    },
+    {
+      "id": 3,
+      "role": "Senior Software Engineer at Swiggy",
+      "year": "October 2021 - Present"
+    }
+  ]
+}
